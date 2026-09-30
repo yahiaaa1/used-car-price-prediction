@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+outputs/
+.ipynb_checkpoints/
+.vscode/
+tempCodeRunnerFile.*
