@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction
+#  Used Car Price Prediction
 
 A machine learning project that predicts the resale price of used cars from the [CarDekho dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho), comparing four regression models with scikit-learn pipelines and 5-fold cross-validation.
 
